@@ -395,7 +395,7 @@ img {
   cursor: pointer;
 }
 
-.form-coment:focus {
+.form-comment:focus {
   border-color: var(--accent-color);
 }
 
